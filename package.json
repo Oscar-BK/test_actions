@@ -1,0 +1,11 @@
+{
+  "name": "test_actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Oscar-BK/test_actions.git",
+  "author": "Oscar <oscar@climbicp.com.au>",
+  "license": "MIT",
+  "scripts":{
+    "start":"node index.js"
+  }
+}
